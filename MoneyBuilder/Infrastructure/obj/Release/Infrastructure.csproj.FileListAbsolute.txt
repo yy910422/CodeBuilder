@@ -1,0 +1,6 @@
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\bin\Release\Tunynet.Infrastructure.XML
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\bin\Release\Tunynet.Infrastructure.dll
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\bin\Release\Tunynet.Infrastructure.pdb
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\Infrastructure\obj\Release\Tunynet.Infrastructure.dll
+E:\人才公共服务平台\系统开发\社区\近乎深度源码版本+移动端ndan\web端\近乎_V4.2.0.0_深度源码版\Infrastructure\obj\Release\Tunynet.Infrastructure.pdb
