@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace Web.Controllers
 {
-    public class testController : Controller
+    public class Default1Controller : Controller
     {
         //
-        // GET: /test/
+        // GET: /Default1/
 
         public ActionResult Index()
         {
